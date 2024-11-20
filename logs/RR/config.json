@@ -1,0 +1,19 @@
+{
+    "data": "E:/RRNet/data/scenenn",
+    "d_point": 2,
+    "imagesize": 156,
+    "point_density": 0.06,
+    "device": "cuda",
+    "epochs": 200,
+    "batch_size": 8,
+    "num_workers": 0,
+    "embedding_size": 128,
+    "alpha": 0.2,
+    "beta": 0.3,
+    "gamma": 0.5,
+    "margin": 0.2,
+    "hardest": true,
+    "learning_rate": 0.001,
+    "momentum": 0.9,
+    "weight_decay": 0.0005
+}
